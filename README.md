@@ -1,6 +1,6 @@
 # GetLike Automation 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/H5jgKG1GZJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/62555280/123333058-b7103e00-d55a-11eb-8675-0f64d82aea32.mp4
 
 > Scripts to automate the functionalities of GetLike Web App 
 
