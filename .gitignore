@@ -1,0 +1,5 @@
+accounts.json
+venv/
+__pycache__/
+.idea/
+chromedriver
