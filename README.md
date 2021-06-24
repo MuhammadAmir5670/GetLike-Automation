@@ -17,7 +17,7 @@ Getlike is an online platform for the Exchange of earnings and promotion on soci
 #### Installation
 Download or Clone the project on your local machine.
 ```
-$ git clone https://github.com/hisham-maged10/path-finder.git
+$ git clone https://github.com/MuhammadAmir5670/GetLike-Automation.git
 ```
 create an virtual enviroment and activate it. then`cd` into the project directory.
 ```
@@ -52,7 +52,6 @@ $ python main.py
 
 ![Demo Image](demo.png)
 
-
 ## Error Analysis and Limitations
 The possible reasons for the errors could be:
 
@@ -60,6 +59,9 @@ The possible reasons for the errors could be:
     
 2. The Getlike.io Website extensively uses AJAX (async call to the server) the data changes without page reloading. the script handles this behavior very well but it is still very unpredictable.
 3. some errors arise because of the slow internet connection if server resposnse time exceeds the async await time the program could crash if and only if the current loaded page crashes. 
+
+## License
+![GitHub](https://img.shields.io/github/license/MuhammadAmir5670/GetLike-Automation)
 
 ## Author Info
 - Gmail [muhammadamir5670@gmail.com]()
